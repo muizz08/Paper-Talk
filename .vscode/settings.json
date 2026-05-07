@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Paper-Talk.sln"
+    "dotnet.defaultSolution": "Paper-Talk.sln",
+    "dotnet.preferCSharpExtension": true
 }
